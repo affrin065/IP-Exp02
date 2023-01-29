@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<title>ABOUT STANFORD UNVERSITY</title>
+<head>
+<style>
+.logo{
+float:left;
+}
+.dropdownbar{
+float:left;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dropbtn {
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+          .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+ 
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px
+                0px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #f1f1f1
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #2D68C4;
+}
+</style>
+</head>
+<body>
+<div class="logo1">
+<img src="C:\Users\bavaa\Downloads\logo1.png" alt="image not available">
+</div>
+        <div class="dropdown">
+            <button class="dropbtn">
+               <div class="dropdownbar">
+                   <img src="C:\Users\bavaa\Downloads\download.png" alt="image not available">
+               </div>
+            </button>
+            <div class="dropdown-content">
+                <a href="admissions.html" target="_blank">Admissions</a>
+                <a href="academics.html" target="_blank">Academics</a>
+                <a href="campuslife.html" target="_blank">Campus Life</a>
+            </div>
+         </div>
+    <img src="C:\Users\bavaa\Downloads\pic.png" alt="image not available">
+    <h2 style="color:#2D68C4;">WELCOME TO STANFORD UNIVERSITY!!!</h2>
+    <h2 style="color:#2D68C4;">WHY US??</h2>
+    <center>
+      <video width="500" height="300" controls>
+      <source src="C:\Users\bavaa\Downloads\videoplayback.mp4" type="video/mp4">  
+       Your browser does not support the video tag.
+       </video>
+     </center>
+    <h2 style="color:#2D68C4;">ABOUT THE UNIVERSITY</h2>
+    <p>Stanford was founded in 1885 by Leland and Jane Stanford in memory of their only child, Leland Stanford Jr., who had died of typhoid fever at age 15 the previous year.
+Leland Stanford was a U.S. senator and former governor of California who made his fortune as a railroad tycoon. 
+The school admitted its first students on October 1, 1891, as a coeducational and non-denominational institution. 
+Stanford University struggled financially after the death of Leland Stanford in 1893 and again after much of the campus was damaged by the 1906 San Francisco earthquake.
+Following World War II, provost of Stanford Frederick Terman inspired and supported faculty and graduates' entrepreneurialism to build a self-sufficient local industry, which would later be known as Silicon Valley.</p>
+     <p>The university is organized around seven schools on the same campus: three schools consisting of 40 academic departments at the undergraduate level as well as four professional schools that focus on graduate programs in law, medicine, education, and business. 
+The university also houses the public policy think tank, the Hoover Institution. Students compete in 36 varsity sports, and the university is one of two private institutions in the Division I FBS Pac-12 Conference. 
+As of May 26, 2022, Stanford has won 131 NCAA team championships, more than any other university, and was awarded the NACDA Directors' Cup for 25 consecutive years, beginning in 1994–1995.In addition, by 2021, Stanford students and alumni had won at least 296 Olympic medals including 150 gold and 79 silver medals.
+As of April 2021, 85 Nobel laureates, 29 Turing Award laureates, and 8 Fields Medalists have been affiliated with Stanford as students, alumni, faculty, or staff. In addition, Stanford is particularly noted for its entrepreneurship and is one of the most successful universities in attracting funding for start-ups. Stanford alumni have founded numerous companies, which combined produce more than $2.7 trillion in annual revenue and have created 5.4 million jobs as of 2011, roughly equivalent to the seventh largest economy in the world (as of 2020).[52][53][54] Stanford is the alma mater of U.S. President Herbert Hoover, 74 living billionaires, and 17 astronauts.
+ In academia, its alumni include the current presidents of Yale and MIT and the provosts of Harvard and Princeton. It is also one of the leading producers of Fulbright Scholars, Marshall Scholars, Rhodes Scholars, and members of the United States Congress.</p>
+<table style="width:40%">
+  <tr>
+    <th>AVG COST AFTER AID</th>
+    <th>GRADUATION RATE(%)</th>
+    <th>ACCEPTANCE RATE(%)</th>
+  </tr>
+  <tr>
+    <td>$13k</td>
+    <td>94%</td>
+    <td>4%</td>
+  </tr>
+</table><br>
+<h2 style="color:#2D68C4;">RANKINGS</h2>
+<ul>
+<li>#3 in National Universities (tie)</li>
+<li>#6 in Best Colleges for Veterans </li>
+<li>#36 in Best Undergraduate Teaching (tie)</li>
+<li>#5 in Most Innovative Schools</li>
+<li>#4 in Best Value Schools</li>
+<li>#282 in Top Performers on Social Mobility (tie)</li>
+<li>#2 in Best Undergraduate Engineering Programs</li>
+</ul>
+</body>
+</html>
