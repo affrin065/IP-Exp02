@@ -66,9 +66,9 @@ th, td {
                </div>
             </button>
             <div class="dropdown-content">
-                <a href="admission.html" target="_blank">Admissions</a>
+                <a href="admission.html" target="_blank">admission</a>
                 <a href="academics.html" target="_blank">Academics</a>
-                <a href="campuslife.html" target="_blank">Campus Life</a>
+                <a href="Lifestyle.html" target="_blank">Lifestyle</a>
             </div>
          </div>
     <img src="C:\Users\bavaa\Downloads\pic.png" alt="image not available">

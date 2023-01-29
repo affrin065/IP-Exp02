@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>lifestyle</title>
+</head>
+<style>
+h1 {text-align: center;}
+</style>
+<body>
+<h1 style="background-color:DodgerBlue;">STANFORD UNIVERSITY LIFESTYLE PAGE</h1>
+ <a href="">
+ <img src="C:\Users\bavaa\Downloads\image1.png" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\bavaa\Downloads\image2.png" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\bavaa\Downloads\image3.png" alt="not available" width="400" height="400">
+ </a>
+<p>The Sustainable Infrastructure Systems program prepares students for immediate and effective participation in the modern infrastructure workforce through a common core that includes <br>1.smart-system design for sustainable infrastructures<br>2. the societal and regulatory context of infrastructure engineering decisions<br>3. construction management.<br> Five plans of study for the Master of Science degree allow for specialization based on background and interest.</p>
+<a href="">
+ <img src="C:\Users\bavaa\Downloads\image4.png" alt="not available" width="400" height="400">
+ </a>
+<a href="">
+ <img src="C:\Users\bavaa\Downloads\image5.png" alt="not available" width="400" height="400">
+ </a>
+</body>
+</html>
